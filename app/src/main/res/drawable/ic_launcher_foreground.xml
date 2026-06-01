@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Subtle circular aesthetic glow -->
+    <path
+        android:fillColor="#1AFFFFFF"
+        android:pathData="M54,54m-38,0a38,38 0,1 1,76 0a38,38 0,1 1,-76 0" />
+
+    <!-- Dumbbell Bar (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,50h60v8h-60z" />
+
+    <!-- Dumbbell Inner Collars (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,45h4v18h-4z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M72,45h4v18h-4z" />
+
+    <!-- Left Weight Plate - Large (Luxury Gold) -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M22,28h8v52h-8z" />
+
+    <!-- Left Weight Plate - Medium (Soft Light Gold) -->
+    <path
+        android:fillColor="#FFF1BB"
+        android:pathData="M14,34h6v40h-6z" />
+
+    <!-- Right Weight Plate - Large (Luxury Gold) -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M78,28h8v52h-8z" />
+
+    <!-- Right Weight Plate - Medium (Soft Light Gold) -->
+    <path
+        android:fillColor="#FFF1BB"
+        android:pathData="M88,34h6v40h-6z" />
+</vector>

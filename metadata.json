@@ -1,0 +1,6 @@
+{
+  "name": "نادي الجلاء الرياضي",
+  "description": "تطبيق متكامل لإدارة المشتركين، الاشتراكات والمالية مع العمل دون اتصال بالإنترنت وتصدير تقارير PDF لنادي الجلاء الرياضي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
